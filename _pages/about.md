@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-As an 18-year-old-student, I'm responsible, remaining calm and pushing projects forward when facing difficulties. Besides, I have a good ability to learn something new. I can master new tools and ways through reading articles or online lessons, and then apply them to assignments. Moreover, I take group work seriously. I will work closely with my team, communicate actively with my members and finish our assignments perfectly.
+As an 18-year-old-student, I'm responsible, remaining calm and pushing projects forward when facing difficulties. Besides, I have a good ability to learn something new. I can master new tools and ways through reading articles or online lessons, and then apply them to assignments. Moreover, I take group work seriously. I will work closely with my team, communicate actively with my members and finish our assignments perfectly. After this assignment, I will keep learning what my team wants me to master and then improve my performance.
 
 
 # 🔥 News
-- *2026.10* Started mt GitHub journey! 
+- *2026.10* Started my GitHub journey! 
 
 
 # 📖 Educations
