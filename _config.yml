@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yu Fei"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "yufei.jpg"
   bio              : "Student at Fuzhou University.Now I'm learning knowledge about programming.Although I had little experience before, I will spare no effort to learn it."
   location         : "Fujian, China"
   employer         : "Fuzhou University"
